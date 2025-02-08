@@ -5,8 +5,8 @@
 <h3 align="center">A frontend developer from Laos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khamxiong&label=Profile%20views&color=0e75b6&style=flat" alt="khamxiong" /> </p>
-- 🔭 I’m currently working **at Lailaolab ICT Solutions Co.,Ltd**
 
+- 🔭 I’m currently working at **Laolailab ICT Solution**
 - 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://adevporfolio.netlify.app/](https://adevporfolio.netlify.app/)
